@@ -17,3 +17,10 @@ Whether you're new to the field or seeking to expand your expertise, this worksh
 - Office hour: 10am -1pm, Wednesday, Moody 244
 
 registered at https://libcal.smu.edu/
+
+### Installing kernel to Open OnDemand
+After logging to the portal hpc.smu.edu, open new terminal and navigate to this folder and run the following command to create the conda environment and jupyter kernel to your Jupyter Lab platform:
+
+```bash
+$ sh install_skln.sh
+```
